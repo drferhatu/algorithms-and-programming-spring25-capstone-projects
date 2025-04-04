@@ -181,8 +181,8 @@ A live demo of this application is available at: [Insert Streamlit Cloud URL her
 
 ## Acknowledgements
 
-I would like to thank Doç. Dr. Ferhat UÇAR for guidance throughout this project, and [any other acknowledgements].
+I would like to thank Assoc. Prof. Ferhat UÇAR for guidance throughout this project, and [any other acknowledgements].
 
 ---
 
-*This project was developed as part of the Algorithm and Programming II course at Fırat University, Technology Faculty, Software Engineering Department.*
+*This project was developed as part of the Algorithms and Programming II course at Fırat University, Technology Faculty, Software Engineering Department.*
