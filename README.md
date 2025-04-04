@@ -1,8 +1,8 @@
-# Algorithm and Programming II - Semester Capstone Project
+# Algorithms and Programming II - Semester Capstone Project
 
 ## Overview
 
-Welcome to the Algorithm and Programming II course project at Fırat University, Technology Faculty, Software Engineering Department. This project involves developing interactive web applications to implement, visualize, and analyze algorithms using Python and Streamlit.
+Welcome to the Algorithms and Programming II course project at Fırat University, Technology Faculty, Software Engineering Department. This project involves developing interactive web applications to implement, visualize, and analyze algorithms using Python and Streamlit.
 
 ## Learning Objectives
 
@@ -54,16 +54,6 @@ Before you begin, ensure you have the following installed:
    # On macOS/Linux
    python3 -m venv venv
    source venv/bin/activate
-   ```
-
-4. **Install Dependencies**
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-5. **Run the Application Locally**
-   ```bash
-   streamlit run app.py
    ```
 
 ## Project Requirements
@@ -169,7 +159,7 @@ Your project will be evaluated based on:
 4. Update your README.md with all required information
 5. Commit and push your final changes to GitHub
 6. Deploy your application to Streamlit Cloud
-7. Submit the final version by the deadline: **June 1, 2025, 23:59**
+7. Submit the final version by the deadline: **June 23, 2025, 23:59**
 
 ## Resources
 
@@ -209,8 +199,8 @@ A: Document the issue in your README and we can explore alternative deployment o
 
 For questions or assistance, please contact:
 
-- **Instructor:** Doç. Dr. Ferhat UÇAR
+- **Instructor:** Assoc. Prof. Ferhat UÇAR
 - **Office Hours:** 
-  - Tuesdays: 13:30 - 15:30
-  - Thursdays: 10:30 - 12:30
-- **Office Location:** Technology Faculty, Room B-304
+  - Fridays: 10:30 - 12:00
+
+- **Office Location:** Technology Faculty - A Section, 3rd floor.
